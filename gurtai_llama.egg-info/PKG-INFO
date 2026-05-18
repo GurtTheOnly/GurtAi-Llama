@@ -1,0 +1,17 @@
+Metadata-Version: 2.4
+Name: gurtai-llama
+Version: 0.1.0
+Summary: GurtAi — A forked Llama architecture with custom branding
+Author: Gurt
+Author-email: 
+License: Apache 2.0
+Requires-Python: >=3.10
+License-File: LICENSE
+Requires-Dist: torch>=2.0.0
+Requires-Dist: transformers>=4.38.0
+Dynamic: author
+Dynamic: license
+Dynamic: license-file
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
